@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
     textAlign: "center",
   },
   result_text: {
-    fontSize: 30,
+    fontSize: 50,
     textAlign: "center",
-  }
+  },
 });
