@@ -51,6 +51,7 @@ const TempType = () => {
           setItems={setItems}
           placeholder="Select a temperature type"
           dropDownDirection="TOP"
+          disabled={buttonDisabled}
         />
       </View>
       <View style={styles.sub_container}>
